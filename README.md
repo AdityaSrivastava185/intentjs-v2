@@ -1,6 +1,7 @@
 ![IntentJS Logo](/homev2/public/intentjs.png)
 
 # IntentJS
+- **Credit**: [Github](https://github.com/intentjs/intent)
 - **Organisation's Repository**: [Github](https://github.com/intentjs/intent)
 </br>
 Welcome to the **IntentJS Landing Page** repository! This project contains the frontend code for the official website of IntentJS, a web application framework built on top of NestJS.
