@@ -1,5 +1,3 @@
-![IntentJS Logo](/homev2/public/intentjs.png)
-
 # IntentJS
 - **Credit**: [Github](https://github.com/intentjs/intent)
 - **Organisation's Repository**: [Github](https://github.com/intentjs/intent)
