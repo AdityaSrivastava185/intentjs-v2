@@ -1,7 +1,8 @@
 ![IntentJS Logo](/homev2/public/intentjs.png)
 
 # IntentJS
-
+- **Organisation's Repository**: [Github](https://github.com/intentjs/intent)
+</br>
 Welcome to the **IntentJS Landing Page** repository! This project contains the frontend code for the official website of IntentJS, a web application framework built on top of NestJS.
 
 ## 🚀 Overview
@@ -64,16 +65,6 @@ vercel
 For more details on IntentJS, check out the official documentation:
 [IntentJS Docs](https://tryintent.com/docs/installation)
 
-## 🤝 Contributing
-Contributions are welcome! To contribute:
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-name`)
-3. Commit your changes (`git commit -m 'Add new feature'`)
-4. Push to the branch (`git push origin feature-name`)
-5. Create a Pull Request
-
-## 📄 License
-This project is licensed under the **MIT License**.
 
 ## 📬 Contact
 For support or questions, reach out via:
