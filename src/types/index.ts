@@ -1,0 +1,1 @@
+// It contains the custom types of the element such as props and iterfaces of elements in the file

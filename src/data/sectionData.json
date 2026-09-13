@@ -1,0 +1,27 @@
+{
+  "featureCards": {
+    "title": "Everything you need, right where you expect it.",
+    "description": "IntentJS gives you a clean foundation — with built-in caching, database integrations, task scheduling, events, and more. Everything you need to build powerful applications, without the usual complexity."
+  },
+  "features": {
+    "title": "Turn weeks of setup into minutes of Intent.",
+    "description": "IntentJS brings together everything modern applications need — task scheduling, message queues, mailers, event-listeners, and fastest HTTP routing — designed to help you move faster, scale effortlessly, and enjoy the craft of building again."
+  },
+
+  "charts": {
+    "title": "Blazing-Fast Performance: IntentJS vs. (NestJS) Expressjs",
+    "description": "Whether with database queries or without, IntentJS delivers unmatched speed and efficiency. These benchmarks highlight IntentJS's superior request-handling capability, making it the go-to choice for high-performance applications."
+  },
+  "testimonials": {
+    "title": "Real builders. Real stories. Real Intent.",
+    "description": "See why developers are choosing IntentJS — and why they’re never looking back."
+  },
+  "integrations": {
+    "title": "Intent provides necessary feature integration out of the box",
+    "description": "Whether you need seamless API connections, third-party tool support, or built-in automation, Intent ensures everything is ready to go from day one. Focus on your workflow while we handle the integrations."
+  },
+  "community": {
+    "title": "A community built for people like you.",
+    "description": ""
+  }
+}

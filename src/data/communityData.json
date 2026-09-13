@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Official Blog for Intent.",
+    "iconimage": "/intent-logo-light.png",
+    "link": "https://blog.tryintent.com"
+  },
+  {
+    "title": "800+ GitHub Stars.",
+    "iconimage": "/github.png",
+    "link": "https://github.com/intentjs/intent"
+  },
+  {
+    "title": "100+ Discord Members.",
+    "iconimage": "/discord.png",
+    "link": "https://discord.gg/5ambDUN7Ge"
+  },
+  {
+    "title": "Follow us on Twitter.",
+    "iconimage": "/twitter.png",
+    "link": "https://twitter.com/intentjs"
+  }
+]

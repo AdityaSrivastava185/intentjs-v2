@@ -1,0 +1,1 @@
+// It contians all the utility functions such as api calls , formatting helpers and logical elements seperate from the UI components
